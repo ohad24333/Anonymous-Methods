@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Methods", "Anonymous Methods.csproj", "{8C1105CC-ED45-48DE-8502-9391A09E02B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Methods.UI", "..\Anonymous Methods.UI\Anonymous Methods.UI.csproj", "{0EE820C3-CE65-4DCE-9776-94218D61B17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1105CC-ED45-48DE-8502-9391A09E02B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1105CC-ED45-48DE-8502-9391A09E02B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1105CC-ED45-48DE-8502-9391A09E02B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1105CC-ED45-48DE-8502-9391A09E02B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE820C3-CE65-4DCE-9776-94218D61B17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE820C3-CE65-4DCE-9776-94218D61B17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE820C3-CE65-4DCE-9776-94218D61B17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE820C3-CE65-4DCE-9776-94218D61B17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1C38A9-5468-4772-8BC7-D2BCADB29694}
+	EndGlobalSection
+EndGlobal
